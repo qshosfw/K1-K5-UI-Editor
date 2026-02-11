@@ -1,8 +1,3 @@
-This guide provides comprehensive instructions for using OuroMasterEditor (K1&K5 UI Editor),
-a specialized tool for creating and editing graphical resources such as icons and fonts for display firmware.
-
-I understand. Let's make it as detailed and "bulletproof" as possible for the English-speaking audience,
-so even a beginner won't get lost. I've removed extra line breaks and kept them only before titles as you requested.
 
 1. Interface Overview
 Top Bar: Control center for visual settings. Includes canvas resizing buttons (Quick Dims), Clean Canvas (C), and UI theme toggles.
